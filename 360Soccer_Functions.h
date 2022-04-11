@@ -1,5 +1,5 @@
 /*
- * This Program founded and developed by:
+ * This rogram founded and developed by:
  * Abdullah Alahmad
  * Khalid Alyami
  * Adam Almomatan
